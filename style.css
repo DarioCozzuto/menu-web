@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+#space{width: 1px;
+height: 200px;}
+
+ul{background-color: darkslategrey;
+margin: 30px 30px 0px 30px;/* top right bottom left */
+padding: 15px 20px 15px 20px;}/* top right bottom left */
+
+li{display: inline;/*per posizionare gli elementi in linea*/
+padding: 25px;}
+
+a:link {text-decoration: none;
+color: white;}
+a:visited{text-decoration: none;
+color: white;}
+#d:hover{background-color: #4dff4d;}
+#e:hover{background-color: #33cc33;}
+#f:hover{background-color: #00b33c;}
+#g:hover{background-color: #046424;}
+
+
+
+h1{display: inline;
+padding: 10px;}
+
+#a{background-color: #4dff4d;}
+#b{background-color: #00b33c;}
+#c{background-color: #33cc33;}
+#h{background-color: #046424;}
+
+#a,#b,#c,#h{color: white;}
+
+
